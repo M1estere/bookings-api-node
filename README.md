@@ -1,7 +1,7 @@
 # Bookings API (Node.js)
 ## Simple booking api made with Node.js
 
-Реализован <b>POST</b> маршрут `/api/bookings/reserve` в <a href="https://github.com/M1estere/bookings-api-node/edit/main/controllers/bookingsController.js">bookingsController</a>, тело запроса должно иметь вид:
+Реализован <b>POST</b> маршрут `/api/bookings/reserve` в <a href="https://github.com/M1estere/bookings-api-node/edit/main/src/controllers/bookingsController.js">bookingsController</a>, тело запроса должно иметь вид:
         
         {
           "event_id": 1,
@@ -22,4 +22,5 @@
 <img width="513" height="101" alt="image" src="https://github.com/user-attachments/assets/7c8d6dfe-53b4-4411-8516-6f73840b1c82" />
 
 Для тестирования функционала использовалась программа <b>Postman</b>
+
 
